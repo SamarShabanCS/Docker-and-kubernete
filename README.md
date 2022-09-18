@@ -7,7 +7,7 @@ In this project:
 
 <b>Watson Natural Language Understanding</b> offers a suite of features for text analysis. The Watson Natural Language Understanding analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
 
-In this project:
+## In this project:
 
 1. Build and deploy a simple guestbook application
 2. Use OpenShift image streams to roll out an update
