@@ -9,9 +9,9 @@ In this project:
 
 In this project:
 
-1 - Build and deploy a simple guestbook application
-2 - Use OpenShift image streams to roll out an update
-3 - Deploy a multi-tier version of the guestbook application
-4 - Create a Watson Natural Language Understanding service instance on IBM Cloud
-5 - Bind the Natural Language Understanding service instance to your application
+1. Build and deploy a simple guestbook application
+2. Use OpenShift image streams to roll out an update
+3. Deploy a multi-tier version of the guestbook application
+4. Create a Watson Natural Language Understanding service instance on IBM Cloud
+5. Bind the Natural Language Understanding service instance to your application
 Autoscale the guestbook app
